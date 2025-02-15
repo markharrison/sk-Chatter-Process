@@ -1,4 +1,4 @@
-# Semantic Kernel - Chatter-Process
+# Semantic Kernel - Process-Triage
 
 14 February 2025
 
